@@ -1,0 +1,14 @@
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\ContainerApp.deps.json
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\ContainerApp.runtimeconfig.json
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\appsettings.Development.json
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\appsettings.json
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\ContainerApp.exe
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\ContainerApp.dll
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\Microsoft.OpenApi.dll
+D:\Ajeet\Avigma\Project\ContainerApp\bin\Debug\ContainerApp.pdb
+D:\Ajeet\Avigma\Project\ContainerApp\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Ajeet\Avigma\Project\ContainerApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Ajeet\Avigma\Project\ContainerApp\obj\Debug\docker-compose.dcproj.CopyComplete
